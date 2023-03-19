@@ -40,7 +40,7 @@ To use ImaGen, follow these steps:
 
 1. Clone the repository: git clone `https://github.com/Userfound404/ImaGen.git`
 2. Install the dependencies: `cd imagen && npm install`
-3. Start the server: `cd server && npm start1`
+3. Start the server: `cd server && npm start`
 4. Start the client: `cd ../client && npm start`
 The server should start running on http://localhost:8080, and the client should start running on http://localhost:5173. You should now be able to use ImaGen by visiting the client URL in your web browser.
 5. Do the following changes for the local host to work
