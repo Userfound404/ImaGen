@@ -15,7 +15,7 @@ You can hover or hold(touch-devices) over the image to see the creator and the p
 ![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/97509220/226175063-9e5c6521-9c8f-429d-b868-848252363f78.gif)
 
 Click on Create Now on the right hand corner, you'll be led to the next page.
-here you can use your own prompt or click on Suprise me, Now click on generate. you can re-generate or change prompt until you like your output.
+here you can use your own prompt or click on Surprise me, Now click on generate. you can re-generate or change prompt until you like your output.
 
 You can share your creation with the community by clicking Share.
 
