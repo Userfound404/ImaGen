@@ -26,7 +26,7 @@ const Home = () => {
     setLoading(true);
 
     try {
-      const response = await fetch('https://imagen-lskv.onrender.com/api/v1/post', {
+      const response = await fetch('http://imagen-lskv.onrender.com/api/v1/post', {
         method: 'GET',
         headers: {
           'Content-Type': 'application/json',
