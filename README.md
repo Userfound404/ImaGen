@@ -59,7 +59,9 @@ We welcome contributions to ImaGen! To contribute or fix bugs to the project, fo
 3. Create a new branch for your changes: `git checkout -b <branch-name>`
 
 Make your changes and test them thoroughly.
+
 4.Commit your changes: `git commit -m "<commit-message>"`
+
 5.Push your changes to your forked repository: `git push origin <branch-name>`
 
 Create a pull request on the original repository.
